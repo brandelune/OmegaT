@@ -589,8 +589,10 @@
         zero or more characters. The '?' character matches exactly one
         character. All other characters represent themselves. For example, if
         you wish the text filter to handle readme files (<literal>readme,
-        read.me</literal>, and <literal>readme.txt</literal>) you should use
-        the pattern <literal>read*</literal>.</para>
+        read.me</literal>, and <literal><?xxe-remark FABRI
+2021-06-11T16:34:55Z
+filename ??>readme.txt</literal>) you should use the pattern
+        <literal>read*</literal>.</para>
       </section>
 
       <section id="source.and.target.files.encoding">
