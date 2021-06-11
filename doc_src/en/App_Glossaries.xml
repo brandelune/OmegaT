@@ -4,7 +4,9 @@
 <appendix id="appendix.glossaries">
   <title>Glossaries</title>
 
-  <para>Glossaries are terminology files. They can be created and updated
+  <para><?xxe-remark FABRI
+2021-06-11T12:32:34Z
+Filename ??>Glossaries are terminology files. They can be created and updated
   manually or imported from other projects.</para>
 
   <para>A given project can have any number of reference glossaries, but only

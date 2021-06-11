@@ -8,8 +8,8 @@
   you should take precautions against data loss when using
   <application>OmegaT</application>, just as with any other application. When
   you translate your files, <application>OmegaT</application> stores all your
-  progress in the translation memory <literal>project_save.tmx</literal> that
-  resides in the project's ./omegat subfolder.</para>
+  progress in the translation memory <filename>project_save.tmx</filename>
+  that resides in the project's ./omegat subfolder.</para>
 
   <para>OmegaT also backs up the translation memory to
   project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project
