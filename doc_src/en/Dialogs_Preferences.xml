@@ -579,7 +579,7 @@
         to select the filter based upon the file's extension. More precisely,
         OmegaT attempts to match each filter's source filename patterns
         against the filename. For example, the pattern <filename>*.xhtml
-        </filename>matches any file with the <filename>.xhtml</filename>
+        </filename> matches any file with the <filename>.xhtml</filename>
         extension. If the appropriate filter is found, the file is assigned to
         it for processing. For example, by default, the XHTML filter is used
         to process files with the .xhtml extension. You can change or add
