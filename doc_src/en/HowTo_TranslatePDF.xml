@@ -5,19 +5,18 @@
   <title>Translate a PDF file</title>
 
   <para>PDF files are a special case. They contain text formatting
-  information, but such information cannot be reused by
-  <application>OmegaT</application> in order to create target files. Thus, PDF
-  files are handled as plain text files, and output files are plain text
-  files.</para>
+  information, but such information cannot be reused by OmegaT in order to
+  create target files. Thus, PDF files are handled as plain text files, and
+  output files are plain text files.</para>
 
   <para>If you need to reproduce text formatting (as well as other things such
   as drawings) in your translation, there are three ways to try:</para>
 
   <orderedlist>
     <listitem>
-      <para>Use <application>OmegaT’s</application> default filter (PDF
-      input), translate, create a target file (it will be a plain text file),
-      add relevant formatting and items manually.</para>
+      <para>Use OmegaT’s default filter (PDF input), translate, create a
+      target file (it will be a plain text file), add relevant formatting and
+      items manually.</para>
     </listitem>
 
     <listitem>

@@ -606,7 +606,7 @@
         file encoding is the same as the source file encoding. The source and
         target encoding fields use drop-down menus containing all the
         supported encodings. &lt;auto&gt; leaves the choice of encoding to
-        <application>OmegaT</application>. This is how it works:</para>
+        OmegaT. This is how it works:</para>
 
         <itemizedlist>
           <listitem>
@@ -774,10 +774,9 @@
     <title>Segmentation Setup</title>
 
     <para>Translation memory tools work with textual units called segments.
-    <application>OmegaT</application> has two ways to segment a text: by
-    paragraph or by sentence segmentation (also referred to as “rule-based
-    segmentation”). In order to select the type of segmentation, select
-    <menuchoice>
+    OmegaT has two ways to segment a text: by paragraph or by sentence
+    segmentation (also referred to as “rule-based segmentation”). In order to
+    select the type of segmentation, select <menuchoice>
         <guimenu>Project</guimenu>
 
         <guimenuitem>Properties...</guimenuitem>
@@ -808,18 +807,16 @@
     segments. If you change segmentation options when a project is open, you
     must reload the project in order for the changes to take effect.</para>
 
-    <para><application>OmegaT</application> uses the following sequence of
-    steps:</para>
+    <para>OmegaT uses the following sequence of steps:</para>
 
     <variablelist>
       <varlistentry>
         <term>Structure level segmentation</term>
 
         <listitem>
-          <para><application>OmegaT</application> first parses the text for
-          structure-level segmentation. During this process it is only the
-          structure of the source file that is used to produce
-          segments.</para>
+          <para>OmegaT first parses the text for structure-level segmentation.
+          During this process it is only the structure of the source file that
+          is used to produce segments.</para>
 
           <para>For example, text files may be segmented on line breaks, empty
           lines, or not be segmented at all. Files containing formatting (ODF
@@ -833,9 +830,8 @@
         <term>Sentence level segmentation</term>
 
         <listitem>
-          <para>After segmenting the source file into structural units,
-          <application>OmegaT</application> will segment these blocks further
-          into sentences.</para>
+          <para>After segmenting the source file into structural units, OmegaT
+          will segment these blocks further into sentences.</para>
         </listitem>
       </varlistentry>
     </variablelist>
@@ -1206,10 +1202,9 @@
 
         <listitem>
           <para>The text export function exports data from within the current
-          <application>OmegaT</application> project to plain text files. The
-          data are exported when the segment is opened. The files appear in
-          the ./script subfolder in the OmegaT user files folder, and
-          include:</para>
+          OmegaT project to plain text files. The data are exported when the
+          segment is opened. The files appear in the ./script subfolder in the
+          OmegaT user files folder, and include:</para>
 
           <itemizedlist>
             <listitem>
@@ -1563,7 +1558,6 @@
   <section>
     <title>Updates</title>
 
-    <para>Enables automatic notification of <application>OmegaT</application>
-    updates.</para>
+    <para>Enables automatic notification of OmegaT updates.</para>
   </section>
 </section>

@@ -9,9 +9,8 @@
 
     <para>Most of the items that appear in the main menu can have a new
     shortcut assigned. You can change the already assigned shortcuts and add
-    new shortcuts by putting a shortcut definition file in your
-    <application>OmegaT</application> preferences folder (accessible by
-    <menuchoice>
+    new shortcuts by putting a shortcut definition file in your OmegaT
+    preferences folder (accessible by <menuchoice>
         <guimenuitem>Options</guimenuitem>
 
         <guimenuitem>Access Configuration Folder</guimenuitem>
@@ -24,8 +23,8 @@
     ignored.</para>
 
     <para>Once the <filename>MainMenuShortcuts.properties</filename> file is
-    modified, <application>OmegaT</application> must be relaunched to take the
-    new shortcuts into account.</para>
+    modified, OmegaT must be relaunched to take the new shortcuts into
+    account.</para>
 
     <para>The shortcut definition syntax is the following: <code>&lt;menu item
     code&gt;=&lt;shortcut&gt;</code>, where <emphasis>&lt;menu item
@@ -121,10 +120,10 @@
 
     <para><code>toolsShowStatisticsStandardMenuItem=shift meta S</code></para>
 
-    <para>Save then the file and relaunch <application>OmegaT</application>.
-    Your new shortcuts should now appear next to the menu items you have
-    modified. If they do not conflict with system shortcuts, they should be
-    available from within OmegaT.</para>
+    <para>Save then the file and relaunch OmegaT. Your new shortcuts should
+    now appear next to the menu items you have modified. If they do not
+    conflict with system shortcuts, they should be available from within
+    OmegaT.</para>
   </section>
 
   <section id="ch04.shortcuts.ProjectMenu">

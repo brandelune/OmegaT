@@ -106,11 +106,10 @@
       <listitem>
         <para>Exports the current selection to a text file for processing. If
         no text has been selected, the current source segment is written to
-        this file. When the user exits <application>OmegaT</application>, this
-        file is not emptied, in order to be consistent with usual clipboard
-        behavior. The exported contents are copied to the file
-        <filename>selection.txt</filename> located in the User's preference
-        files folder.</para>
+        this file. When the user exits OmegaT, this file is not emptied, in
+        order to be consistent with usual clipboard behavior. The exported
+        contents are copied to the file <filename>selection.txt</filename>
+        located in the User's preference files folder.</para>
       </listitem>
     </varlistentry>
 
@@ -207,8 +206,8 @@
 
             <keycap>F3</keycap>
           </keycombo> to cycle through the four alternatives. If no text is
-        selected, <application>OmegaT</application> selects the word that
-        contains the letter immediately to the right of the cursor.</para>
+        selected,OmegaT selects the word that contains the letter immediately
+        to the right of the cursor.</para>
       </listitem>
     </varlistentry>
 

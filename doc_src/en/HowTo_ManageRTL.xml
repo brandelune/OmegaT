@@ -39,22 +39,20 @@
     </listitem>
   </itemizedlist>
 
-  <para>Using the RTL mode in <application>OmegaT</application> has no
-  influence whatsoever on the display mode of the translated documents created
-  in <application>OmegaT</application>. The display mode of the translated
-  documents must be modified within the application (such as Microsoft Word)
-  commonly used to display or modify them (check the relevant manuals for
-  details). Using <keycombo>
+  <para>Using the RTL mode in OmegaT has no influence whatsoever on the
+  display mode of the translated documents created in OmegaT. The display mode
+  of the translated documents must be modified within the application (such as
+  Microsoft Word) commonly used to display or modify them (check the relevant
+  manuals for details). Using <keycombo>
       <keycap>Shift</keycap>
 
       <keycap>Ctrl</keycap>
 
       <keycap>O</keycap>
-    </keycombo> causes both text input and display in
-  <application>OmegaT</application> to change. It can be used separately for
-  all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane
-  and toggling the display mode. It can also be used in all the input fields
-  found in <application>OmegaT</application> - in the search window, for
+    </keycombo> causes both text input and display in OmegaT to change. It can
+  be used separately for all three panes (Editor, Fuzzy Matches and Glossary)
+  by clicking on the pane and toggling the display mode. It can also be used
+  in all the input fields found in OmegaT - in the search window, for
   segmentation rules etc.</para>
 
   <para>Mac OS X users, note: use <keycombo>
@@ -75,15 +73,15 @@
     language, place holders in localization files, and numbers in text. In
     cases like these it becomes necessary to switch to RTL mode, so that the
     RTL (in fact bidirectional) text is displayed correctly. It should be
-    noted that when <application>OmegaT</application> is in RTL mode, both
-    source and target are displayed in RTL mode. This means that if the source
-    language is LTR and the target language is RTL, or vice versa, it may be
-    necessary to toggle back and forth between RTL and LTR modes to view the
-    source and enter the target easily in their respective modes.</para>
+    noted that when OmegaT is in RTL mode, both source and target are
+    displayed in RTL mode. This means that if the source language is LTR and
+    the target language is RTL, or vice versa, it may be necessary to toggle
+    back and forth between RTL and LTR modes to view the source and enter the
+    target easily in their respective modes.</para>
   </section>
 
   <section>
-    <title><application>OmegaT</application> tags in RTL segments</title>
+    <title>OmegaT tags in RTL segments</title>
 
     <para>As stated above, OmegaT tags are LTR strings. When translating
     between RTL and LTR languages, correctly reading the tags from the source

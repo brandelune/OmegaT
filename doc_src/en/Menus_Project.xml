@@ -65,8 +65,7 @@
 
           <listitem>
             <para>Copy the URL of the page (ending with
-            <guilabel>action=edit</guilabel>) and paste it into
-            <application>OmegaT</application>.</para>
+            <guilabel>action=edit</guilabel>) and paste it into OmegaT.</para>
           </listitem>
         </orderedlist>
 
@@ -220,9 +219,9 @@
       <term>Quit</term>
 
       <listitem>
-        <para>Saves the project and quits <application>OmegaT</application>.
-        If you haven't yet saved the project, this manually confirms whether
-        you really wish to quit.</para>
+        <para>Saves the project and quits OmegaT. If you haven't yet saved the
+        project, this manually confirms whether you really wish to
+        quit.</para>
       </listitem>
     </varlistentry>
   </variablelist>

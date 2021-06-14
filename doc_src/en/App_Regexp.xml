@@ -522,10 +522,10 @@
     Coach</ulink> for Windows,Linux, FreeBSD versions of a stand-alone tool.
     This is much the same as the above example.</para>
 
-    <para>A nice collection of useful regex cases can be found in
-    <application>OmegaT</application> itself (see Options &gt; Segmentation).
-    The following list includes expressions you may find useful when searching
-    through the translation memory:</para>
+    <para>A nice collection of useful regex cases can be found in OmegaT
+    itself (see Options &gt; Segmentation). The following list includes
+    expressions you may find useful when searching through the translation
+    memory:</para>
 
     <table>
       <title>Regex - Examples of regular expressions in translations</title>

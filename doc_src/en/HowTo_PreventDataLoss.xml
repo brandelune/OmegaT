@@ -4,12 +4,11 @@
 <section id="howto.preventdataloss">
   <title>Prevent data loss</title>
 
-  <para><application>OmegaT</application> is a robust application. However,
-  you should take precautions against data loss when using
-  <application>OmegaT</application>, just as with any other application. When
-  you translate your files, <application>OmegaT</application> stores all your
-  progress in the translation memory <filename>project_save.tmx</filename>
-  that resides in the project's ./omegat subfolder.</para>
+  <para>OmegaT is a robust application. However, you should take precautions
+  against data loss when using OmegaT, just as with any other application.
+  When you translate your files, OmegaT stores all your progress in the
+  translation memory <filename>project_save.tmx</filename> that resides in the
+  project's ./omegat subfolder.</para>
 
   <para>OmegaT also backs up the translation memory to
   project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project
@@ -55,27 +54,25 @@
     </listitem>
 
     <listitem>
-      <para>Until you are familiar with <application>OmegaT</application>,
-      create translated files at regular intervals and check that the
-      translated file contains the latest version of your translation.</para>
+      <para>Until you are familiar with OmegaT, create translated files at
+      regular intervals and check that the translated file contains the latest
+      version of your translation.</para>
     </listitem>
 
     <listitem>
       <para>Take particular care when making changes to the files in
       <literal>./source</literal> while in the middle of a project. If the
-      source file is modified after you have begun translating,
-      <application>OmegaT</application> may be unable to find a segment that
-      you have already translated.</para>
+      source file is modified after you have begun translating, OmegaT may be
+      unable to find a segment that you have already translated.</para>
     </listitem>
   </itemizedlist>
 
   <itemizedlist>
     <listitem>
       <para>Use these Help texts to get started. Should you run into problems,
-      post a message in the <ulink
-      url="https://omegat.org/support"><application>OmegaT</application> user
-      group</ulink>. Do not hesitate to post in the language you feel the most
-      familiar with.</para>
+      post a message in the <ulink url="https://omegat.org/support">OmegaT
+      user group</ulink>. Do not hesitate to post in the language you feel the
+      most familiar with.</para>
     </listitem>
   </itemizedlist>
 </section>

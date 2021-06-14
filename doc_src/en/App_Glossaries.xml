@@ -37,9 +37,8 @@
     <title>Usage</title>
 
     <para>To use an existing glossary, simply place it in the ./glossary
-    folder after creating the project. <application>OmegaT</application>
-    automatically detects glossary files in this folder when a project is
-    opened.</para>
+    folder after creating the project. OmegaT automatically detects glossary
+    files in this folder when a project is opened.</para>
 
     <para>To add a new term to the writable glossary use
     <guimenuitem>Edit</guimenuitem> &gt; <guimenuitem>Create Glossary
