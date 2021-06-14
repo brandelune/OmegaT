@@ -208,9 +208,7 @@
 
     <variablelist>
       <varlistentry>
-        <term>stats.txt<?xxe-remark FABRI
-2021-06-11T16:39:31Z
-filename ??></term>
+        <term>stats.txt</term>
 
         <listitem>
           <para>contains the current statistics of the current project. You

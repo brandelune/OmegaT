@@ -578,8 +578,8 @@
         <para>When OmegaT encounters a file in its source folder, it attempts
         to select the filter based upon the file's extension. More precisely,
         OmegaT attempts to match each filter's source filename patterns
-        against the filename. For example, the pattern <literal>*.xhtml
-        </literal>matches any file with the <literal>.xhtml</literal>
+        against the filename. For example, the pattern <filename>*.xhtml
+        </filename>matches any file with the <filename>.xhtml</filename>
         extension. If the appropriate filter is found, the file is assigned to
         it for processing. For example, by default, the XHTML filter is used
         to process files with the .xhtml extension. You can change or add
@@ -588,11 +588,9 @@
         <emphasis role="bold">Searches. </emphasis>The '*' character matches
         zero or more characters. The '?' character matches exactly one
         character. All other characters represent themselves. For example, if
-        you wish the text filter to handle readme files (<literal>readme,
-        read.me</literal>, and <literal><?xxe-remark FABRI
-2021-06-11T16:34:55Z
-filename ??>readme.txt</literal>) you should use the pattern
-        <literal>read*</literal>.</para>
+        you wish the text filter to handle readme files (<filename>readme,
+        read.me</filename>, and <filename>readme.txt</filename>) you should
+        use the pattern <literal>read*</literal>.</para>
       </section>
 
       <section id="source.and.target.files.encoding">

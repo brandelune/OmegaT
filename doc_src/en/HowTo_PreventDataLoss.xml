@@ -37,7 +37,7 @@
     </listitem>
 
     <listitem>
-      <para>rename it <literal>project_save.tmx</literal></para>
+      <para>rename it <filename>project_save.tmx</filename></para>
     </listitem>
 
     <listitem>
@@ -49,8 +49,9 @@
 
   <itemizedlist>
     <listitem>
-      <para>Make regular copies of the file /omegat/project_save.tmx to backup
-      media, such as CD or DVD.</para>
+      <para>Make regular copies of the file
+      <filename>./omegat/project_save.tmx</filename> to backup media, such as
+      CD or DVD.</para>
     </listitem>
 
     <listitem>
@@ -61,7 +62,7 @@
 
     <listitem>
       <para>Take particular care when making changes to the files in
-      <literal>/source</literal> while in the middle of a project. If the
+      <literal>./source</literal> while in the middle of a project. If the
       source file is modified after you have begun translating,
       <application>OmegaT</application> may be unable to find a segment that
       you have already translated.</para>
