@@ -61,7 +61,7 @@
 
     <listitem>
       <para>Take particular care when making changes to the files in
-      <literal>./source</literal> while in the middle of a project. If the
+      ./source while in the middle of a project. If the
       source file is modified after you have begun translating, OmegaT may be
       unable to find a segment that you have already translated.</para>
     </listitem>
