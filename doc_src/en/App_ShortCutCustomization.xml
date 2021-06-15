@@ -27,9 +27,9 @@
     account.</para>
 
     <para>The shortcut definition syntax is the following: <code>&lt;menu item
-    code&gt;=&lt;shortcut&gt;</code>, where <emphasis>&lt;menu item
-    code&gt;</emphasis> is a code taken from the tables below and
-    <emphasis>&lt;shortcut&gt;</emphasis> is a combination of pressed keys
+    code&gt;=&lt;shortcut&gt;</code>, where <guimenu>&lt;menu item
+    code&gt;</guimenu> is a code taken from the tables below and
+    <guimenu>&lt;shortcut&gt;</guimenu> is a combination of pressed keys
     specified by the user<footnote>
         <para>The full syntax for keystrokes (shortcuts) is defined in the
         following Java 1.6 documentation from Oracle (bottom of page): <ulink
@@ -43,17 +43,17 @@
     where:<itemizedlist>
         <listitem>
           <para><code>&lt;modifier&gt;</code> can be:
-          <emphasis>shift</emphasis>, <emphasis>control</emphasis>,
-          <emphasis>ctrl</emphasis>, <emphasis>meta</emphasis><footnote>
+          <guimenu>shift</guimenu>, <guimenu>control</guimenu>,
+          <guimenu>ctrl</guimenu>, <guimenu>meta</guimenu><footnote>
               <para>On the Mac, the modifier <emphasis>meta</emphasis> must be
-              used to specify the <emphasis>command</emphasis> key.</para>
-            </footnote>, <emphasis>alt</emphasis>,
-          <emphasis>altGraph</emphasis></para>
+              used to specify the <guimenu>command</guimenu> key.</para>
+            </footnote>, <guimenu>alt</guimenu>,
+          <guimenu>altGraph</guimenu></para>
         </listitem>
 
         <listitem>
-          <para><code>&lt;event&gt;</code> can be: <emphasis>typed</emphasis>,
-          <emphasis>pressed</emphasis>, <emphasis>released</emphasis></para>
+          <para><code>&lt;event&gt;</code> can be: <guimenu>typed</guimenu>,
+          <guimenu>pressed</guimenu>, <guimenu>released</guimenu></para>
         </listitem>
 
         <listitem>

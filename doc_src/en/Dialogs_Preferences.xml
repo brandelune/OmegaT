@@ -342,7 +342,7 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Skip PO header</emphasis></para>
+          <para><guimenu>Skip PO header</guimenu></para>
 
           <para>The PO header will be skipped and left unchanged if this
           option is checked.</para>
@@ -351,12 +351,12 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;'
-          in header</emphasis></para>
+          <para><guimenu>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;'
+          in header</guimenu></para>
 
-          <para><emphasis>This option allows OmegaT to override the
+          <para><guimenu>This option allows OmegaT to override the
           specification in the PO file header and use the default for the
-          selected target language.</emphasis></para>
+          selected target language.</guimenu></para>
         </listitem>
       </itemizedlist>
 
@@ -364,7 +364,7 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Translate the following attributes</emphasis>: the
+          <para><guimenu>Translate the following attributes</guimenu>: the
           selected attributes will appear as segments in the Editor
           window.</para>
         </listitem>
@@ -372,7 +372,7 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Start a new paragraph on</emphasis>: the &lt;br&gt;
+          <para><guimenu>Start a new paragraph on</guimenu>: the &lt;br&gt;
           HTML tag will constitute a paragraph break for segmentation
           purposes.</para>
         </listitem>
@@ -380,27 +380,27 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Skip text matching regular expression</emphasis>:
-          any text matching the regular expression is skipped. It is shown in
-          red in the tag validator. Text in source segments that matches is
-          shown in italics.</para>
+          <para><guimenu>Skip text matching regular expression</guimenu>: any
+          text matching the regular expression is skipped. It is shown in red
+          in the tag validator. Text in source segments that matches is shown
+          in italics.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Do not translate the content attribute of meta-tags
-          ...:</emphasis> The meta-tags in the box will not be
+          <para><guimenu>Do not translate the content attribute of meta-tags
+          ...:</guimenu> The meta-tags in the box will not be
           translated.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Do not translate the content of tags with the
+          <para><guimenu>Do not translate the content of tags with the
           following attribute key-value pairs (separate with
-          commas)</emphasis>: if a tag matches the list of key-value pairs,
-          its content will be ignored.</para>
+          commas)</guimenu>: if a tag matches the list of key-value pairs, its
+          content will be ignored.</para>
 
           <para>It is sometimes useful to be able make certain tags
           untranslatable based on the values of their attributes. For example,
@@ -451,13 +451,13 @@
 
           <itemizedlist>
             <listitem>
-              <para><emphasis>Aggregate tags</emphasis>: if checked, tags with
+              <para><guimenu>Aggregate tags</guimenu>: if checked, tags with
               no translatable text between them will be aggregated into a
               single tag.</para>
             </listitem>
 
             <listitem>
-              <para><emphasis>Preserve spaces for all tags</emphasis>: if
+              <para><guimenu>Preserve spaces for all tags</guimenu>: if
               checked, "white space" (i.e. spaces and newlines) will be
               preserved, even if this option is not defined in the
               document.</para>
@@ -470,21 +470,21 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Add or rewrite encoding declaration in HTML and
-          XHTML files</emphasis>: the target files often need to have a
-          different character set encoding from the one in the source file
-          (whether it is explicitly defined or implied). Using this option,
-          the translator can specify whether the target files should have the
-          encoding declaration included. For instance, if the file filter
-          specifies UTF8 as the encoding scheme for the target files,
-          selecting Always will ensure that this information is included in
-          the translated files.</para>
+          <para><guimenu>Add or rewrite encoding declaration in HTML and XHTML
+          files</guimenu>: the target files often need to have a different
+          character set encoding from the one in the source file (whether it
+          is explicitly defined or implied). Using this option, the translator
+          can specify whether the target files should have the encoding
+          declaration included. For instance, if the file filter specifies
+          UTF8 as the encoding scheme for the target files, selecting Always
+          will ensure that this information is included in the translated
+          files.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Translate the following attributes</emphasis>: the
+          <para><guimenu>Translate the following attributes</guimenu>: the
           selected attributes will appear as segments in the Editor
           window.</para>
         </listitem>
@@ -492,7 +492,7 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Start a new paragraph on</emphasis>: the &lt;br&gt;
+          <para><guimenu>Start a new paragraph on</guimenu>: the &lt;br&gt;
           HTML tag will constitute a paragraph break for segmentation
           purposes.</para>
         </listitem>
@@ -500,27 +500,27 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Skip text matching regular expression</emphasis>:
-          any text matching the regular expression is skipped. It is shown in
-          red in the tag validator. Text in source segments that matches is
-          shown in italics.</para>
+          <para><guimenu>Skip text matching regular expression</guimenu>: any
+          text matching the regular expression is skipped. It is shown in red
+          in the tag validator. Text in source segments that matches is shown
+          in italics.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Do not translate the content attribute of meta-tags
-          ...:</emphasis> The meta-tags in the box will not be
+          <para><guimenu>Do not translate the content attribute of meta-tags
+          ...:</guimenu> The meta-tags in the box will not be
           translated.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis>Do not translate the content of tags with the
+          <para><guimenu>Do not translate the content of tags with the
           following attribute key-value pairs (separate with
-          commas)</emphasis>: if a tag matches the list of key-value pairs,
-          its content will be ignored.</para>
+          commas)</guimenu>: if a tag matches the list of key-value pairs, its
+          content will be ignored.</para>
 
           <para>It is sometimes useful to be able make certain tags
           untranslatable based on the values of their attributes. For example,
@@ -531,15 +531,14 @@
         </listitem>
 
         <listitem>
-          <para><emphasis>Compress whitespace in translated
-          document</emphasis>: multiple continuous whitespace characters will
-          be converted into one single whitespace in the translated
-          document.</para>
+          <para><guimenu>Compress whitespace in translated document</guimenu>:
+          multiple continuous whitespace characters will be converted into one
+          single whitespace in the translated document.</para>
         </listitem>
 
         <listitem>
-          <para><emphasis>Remove HTML comments in translated
-          document</emphasis>: commented parts (between &lt;!-- and --&gt;)
+          <para><guimenu>Remove HTML comments in translated
+          document</guimenu>: commented parts (between &lt;!-- and --&gt;)
           will not be copied into the translated document.</para>
         </listitem>
       </itemizedlist>
@@ -735,11 +734,10 @@
         <para>Additional variants are available for variables ${nameOnly} and
         ${Extension}. In case the file name has ambivalent name, one can apply
         variables of the form <literal>${name
-        only</literal><emphasis>-extension number</emphasis>} and
-        <literal>${extension</literal>-<emphasis>extension number}
-        </emphasis>. If for example the original file is named
-        Document.xx.docx, the following variables will give the following
-        results:</para>
+        only</literal><guimenu>-extension number</guimenu>} and
+        <literal>${extension</literal>-<guimenu>extension number} </guimenu>.
+        If for example the original file is named Document.xx.docx, the
+        following variables will give the following results:</para>
 
         <itemizedlist>
           <listitem>
@@ -858,8 +856,8 @@
 
           <listitem>
             <para>Separates the source text into segments. For example,
-            "<emphasis>Did it make sense? I was not sure</emphasis>." should
-            be split into two segments. For this to happen, there should be a
+            "<keycap>Did it make sense? I was not sure</keycap>." should be
+            split into two segments. For this to happen, there should be a
             break rule for "?", when followed by spaces and a capitalized
             word. To define a rule as a break rule, tick the Break/Exception
             check box.</para>
@@ -873,7 +871,7 @@
 
           <listitem>
             <para>specify what parts of text should NOT be separated. In spite
-            of the period, <emphasis>"Mrs. Dalloway "</emphasis> should not be
+            of the period, <keycap>"Mrs. Dalloway "</keycap> should not be
             split in two segments, so an exception rule should be established
             for Mrs (and for Mr, for Dr, for prof etc), followed by a period.
             To define a rule as an exception rule, leave the Break/Exception
@@ -1412,8 +1410,8 @@
                   <entry><literal>${diff}</literal></entry>
 
                   <entry>String showing the differences between the source and
-                  the match.<emphasis> Hint:</emphasis> use this if the text
-                  you are translating has been updated.</entry>
+                  the match.<guimenu> Hint:</guimenu> use this if the text you
+                  are translating has been updated.</entry>
                 </row>
 
                 <row>

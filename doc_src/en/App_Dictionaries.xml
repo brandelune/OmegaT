@@ -23,8 +23,8 @@
     <itemizedlist>
       <listitem>
         <para>Download the file - it should be a <filename>tarball</filename>
-        archive (extension <emphasis>tar.bz</emphasis> or
-        <emphasis>tar.bz2</emphasis>).</para>
+        archive (extension <filename>tar.bz</filename> or
+        <filename>tar.bz2</filename>).</para>
       </listitem>
     </itemizedlist>
 
@@ -33,8 +33,8 @@
         <para>Use untar utility (or its equivalent, for instance <filename>
         winrar</filename> in Windows) to extract its contents into the
         ./dictionary project folder. There should be three files, with
-        extensions <emphasis>dz, idx</emphasis> and
-        <emphasis>ifo</emphasis>.</para>
+        extensions <filename>dz, idx</filename> and
+        <filename>ifo</filename>.</para>
       </listitem>
     </itemizedlist>
 
@@ -111,7 +111,7 @@
       <listitem>
         <para>Does the folder contain three files of the same name, with
         extensions? If only one file is present, check its extension. If it is
-        <emphasis>tar.bz</emphasis>, you have forgotten to unpack (untar)
+        <filename>tar.bz</filename>, you have forgotten to unpack (untar)
         it.</para>
       </listitem>
     </itemizedlist>
