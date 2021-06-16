@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><whc:toc xmlns:whc="http://www.xmlmind.com/whc/schema/whc" xmlns="http://www.w3.org/1999/xhtml" xmlns:htm="http://www.w3.org/1999/xhtml">
+               <whc:entry href="chapter.installing.and.running.html"><whc:title>Installing and running OmegaT
+                     </whc:title>
+                     <whc:entry href="chapter.installing.and.running.html#Windows.users"><whc:title>Windows Users</whc:title></whc:entry>
+                     <whc:entry href="chapter.installing.and.running.html#Linux.Intel.users"><whc:title>Linux (Intel) Users</whc:title></whc:entry>
+                     <whc:entry href="chapter.installing.and.running.html#MAC.OSX.users"><whc:title>macOS Users</whc:title></whc:entry>
+                     <whc:entry href="chapter.installing.and.running.html#other.systems"><whc:title>Other Systems</whc:title></whc:entry>
+                     <whc:entry href="chapter.installing.and.running.html#drag.and.drop"><whc:title>Drag and drop</whc:title></whc:entry>
+                     <whc:entry href="chapter.installing.and.running.html#using.Java.Web.Start"><whc:title>Using Java Web Start</whc:title></whc:entry>
+                     <whc:entry href="chapter.installing.and.running.html#commandline.launching"><whc:title>Starting OmegaT from the command line</whc:title></whc:entry>
+                     <whc:entry href="chapter.installing.and.running.html#building.OmegaT.from.source"><whc:title>Building OmegaT From Source</whc:title></whc:entry>
+                  </whc:entry>
+               <whc:entry href="menus.html"><whc:title>Menus</whc:title>
+                     <whc:entry href="menus.html#menus.project"><whc:title>Project</whc:title></whc:entry>
+                     <whc:entry href="menus.html#menus.edit"><whc:title>Edit</whc:title></whc:entry>
+                     <whc:entry href="menus.html#menus.goto"><whc:title>Go To</whc:title></whc:entry>
+                     <whc:entry href="menus.html#menus.view"><whc:title>View</whc:title></whc:entry>
+                     <whc:entry href="menus.html#menus.tools"><whc:title>Tools</whc:title></whc:entry>
+                     <whc:entry href="menus.html#menus.options"><whc:title>Options</whc:title></whc:entry>
+                     <whc:entry href="menus.html#menus.help"><whc:title>Help</whc:title></whc:entry>
+                  </whc:entry>
+               <whc:entry href="windows.and.dialogs.html"><whc:title>Windows and dialogs</whc:title>
+                     <whc:entry href="windows.and.dialogs.html#dialogs.projectproperties"><whc:title>Project Properties</whc:title></whc:entry>
+                     <whc:entry href="windows.and.dialogs.html#windows.projectfiles"><whc:title>Project Files</whc:title></whc:entry>
+                     <whc:entry href="windows.and.dialogs.html#windows.textsearch"><whc:title>Text Search</whc:title></whc:entry>
+                     <whc:entry href="windows.and.dialogs.html#windows.textreplace"><whc:title>Text Replace</whc:title></whc:entry>
+                     <whc:entry href="windows.and.dialogs.html#windows.aligner"><whc:title>Aligner</whc:title></whc:entry>
+                     <whc:entry href="windows.and.dialogs.html#windows.scripts"><whc:title>Scripts</whc:title></whc:entry>
+                     <whc:entry href="windows.and.dialogs.html#dialogs.preferences"><whc:title>General Preferences</whc:title></whc:entry>
+                  </whc:entry>
+               <whc:entry href="panes.html"><whc:title>Panes</whc:title>
+                     <whc:entry href="panes.html#panes.editor"><whc:title>Editor</whc:title></whc:entry>
+                     <whc:entry href="panes.html#panes.fuzzymatches"><whc:title>Fuzzy Matches</whc:title></whc:entry>
+                     <whc:entry href="panes.html#panes.glossary"><whc:title>Glossary</whc:title></whc:entry>
+                     <whc:entry href="panes.html#panes.dictionary"><whc:title>Dictionary</whc:title></whc:entry>
+                     <whc:entry href="panes.html#panes.machinetranslation"><whc:title>Machine Translation</whc:title></whc:entry>
+                     <whc:entry href="panes.html#panes.multipletranslations"><whc:title>Multiple Translations</whc:title></whc:entry>
+                     <whc:entry href="panes.html#panes.notes"><whc:title>Notes</whc:title></whc:entry>
+                     <whc:entry href="panes.html#panes.comments"><whc:title>Comments</whc:title></whc:entry>
+                     <whc:entry href="panes.html#panes.statusbar"><whc:title>Status bar</whc:title></whc:entry>
+                  </whc:entry>
+               <whc:entry href="project.folder.html"><whc:title>Project folder</whc:title>
+                     <whc:entry href="project.folder.html#projectfolder.source"><whc:title>source</whc:title></whc:entry>
+                     <whc:entry href="project.folder.html#projectfolder.target"><whc:title>target</whc:title></whc:entry>
+                     <whc:entry href="project.folder.html#projectfolder.tm"><whc:title>tm</whc:title></whc:entry>
+                     <whc:entry href="project.folder.html#projectfolder.dictionary"><whc:title>dictionary</whc:title></whc:entry>
+                     <whc:entry href="project.folder.html#projectfolder.glossary"><whc:title>glossary</whc:title></whc:entry>
+                     <whc:entry href="project.folder.html#projectfolder.omegat"><whc:title>omegat</whc:title></whc:entry>
+                     <whc:entry href="project.folder.html#projectfolder.omegat.project"><whc:title>omegat.project (file)</whc:title></whc:entry>
+                     <whc:entry href="project.folder.html#projectfolder.repositories"><whc:title>.repositories</whc:title></whc:entry>
+                  </whc:entry>
+               <whc:entry href="howtos.html"><whc:title>How To...</whc:title>
+                     <whc:entry href="howtos.html#howto.setupteamproject"><whc:title>Set up a Team Project</whc:title></whc:entry>
+                     <whc:entry href="howtos.html#howto.useteamproject"><whc:title>Use a Team Project</whc:title></whc:entry>
+                     <whc:entry href="howtos.html#howto.reusetm"><whc:title>Reuse Translation Memories</whc:title></whc:entry>
+                     <whc:entry href="howtos.html#howto.preventdataloss"><whc:title>Prevent data loss</whc:title></whc:entry>
+                     <whc:entry href="howtos.html#howto.translatepdf"><whc:title>Translate a PDF file</whc:title></whc:entry>
+                     <whc:entry href="howtos.html#howto.managerighttoleft"><whc:title>Manage Right-To-Left languages</whc:title></whc:entry>
+                  </whc:entry>
+               <whc:entry href="appendix.dictionaries.html"><whc:title>Appendices</whc:title><whc:entry href="appendix.dictionaries.html"><whc:title>A. Dictionaries</whc:title></whc:entry><whc:entry href="appendix.glossaries.html"><whc:title>B. Glossaries</whc:title>
+                     <whc:entry href="appendix.glossaries.html#glossaries.defaultglossary"><whc:title>Default glossary</whc:title></whc:entry>
+                     <whc:entry href="appendix.glossaries.html#glossaries.usage"><whc:title>Usage</whc:title></whc:entry>
+                     <whc:entry href="appendix.glossaries.html#glossaries.fileformat"><whc:title>File format</whc:title></whc:entry>
+                     <whc:entry href="appendix.glossaries.html#glossaries.commonproblems"><whc:title>Common glossary problems</whc:title></whc:entry>
+                  </whc:entry><whc:entry href="appendix.spellchecker.html"><whc:title>C. Spell checker</whc:title>
+                     <whc:entry href="appendix.spellchecker.html#spellchecker.installingdictionaries"><whc:title>Installing spelling dictionaries</whc:title></whc:entry>
+                     <whc:entry href="appendix.spellchecker.html#spellchecker.usingdictionaries"><whc:title>Using spelling dictionaries</whc:title></whc:entry>
+                     <whc:entry href="appendix.spellchecker.html#spellchecker.hints"><whc:title>Hints</whc:title></whc:entry>
+                  </whc:entry><whc:entry href="appendix.regexp.html"><whc:title>D. Regular expressions</whc:title>
+                     <whc:entry href="appendix.regexp.html#regex.tools.and.examples.of.use"><whc:title>Regex tools and examples of use</whc:title></whc:entry>
+                  </whc:entry><whc:entry href="appendix.shortcut.custom.html"><whc:title>E. Shortcuts customization</whc:title>
+                     <whc:entry href="appendix.shortcut.custom.html#ch04.shortcuts.customization"><whc:title>Shortcuts customization</whc:title></whc:entry>
+                     <whc:entry href="appendix.shortcut.custom.html#ch04.shortcuts.ProjectMenu"><whc:title>Project Menu</whc:title></whc:entry>
+                     <whc:entry href="appendix.shortcut.custom.html#ch04.shortcuts.EditMenu"><whc:title>Edit Menu</whc:title></whc:entry>
+                     <whc:entry href="appendix.shortcut.custom.html#ch04.shortcuts.GoToMenu"><whc:title>GoTo Menu</whc:title></whc:entry>
+                     <whc:entry href="appendix.shortcut.custom.html#ch04.shortcuts.ViewMenu"><whc:title>View Menu</whc:title></whc:entry>
+                     <whc:entry href="appendix.shortcut.custom.html#ch04.shortcuts.ToolsMenu"><whc:title>Tools Menu</whc:title></whc:entry>
+                     <whc:entry href="appendix.shortcut.custom.html#ch04.shortcuts.OptionsMenu"><whc:title>Options Menu</whc:title></whc:entry>
+                     <whc:entry href="appendix.shortcut.custom.html#ch04.shortcuts.HelpMenu"><whc:title>Help Menu</whc:title></whc:entry>
+                  </whc:entry></whc:entry>
+               
+               
+               
+               
+            </whc:toc>
