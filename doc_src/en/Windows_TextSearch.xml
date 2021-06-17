@@ -259,11 +259,11 @@
 
     <para>Pressing the search button after entering a string in the search
     field displays all the segments in the project that include the entered
-    string. As <application>OmegaT</application> handles identical segments as
-    one single entity, only the first unique segment is shown. The segments
-    are displayed in order of appearance in the project. Translated segments
-    are displayed with the original text at the top and the translated text at
-    the bottom, untranslated segments are displayed as the source only.</para>
+    string. As OmegaT handles identical segments as one single entity, only
+    the first unique segment is shown. The segments are displayed in order of
+    appearance in the project. Translated segments are displayed with the
+    original text at the top and the translated text at the bottom,
+    untranslated segments are displayed as the source only.</para>
 
     <para>Double-clicking on a segment opens it in the Editor for
     modifications (one single click does it when <emphasis

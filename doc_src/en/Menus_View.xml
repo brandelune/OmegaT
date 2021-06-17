@@ -112,12 +112,12 @@
       <term>Aggressive Font Fallback</term>
 
       <listitem>
-        <para>Check this option in case <application>OmegaT</application> does
-        not display some glyphs properly (even if the fonts containing the
-        relevant glyphs are installed on your machine). Note: on Windows it
-        seems that this manual font fallback mechanism can interfere with
-        standard font fallback, causing undesirable font substitution. For
-        that reason, it is OFF by default.</para>
+        <para>Check this option in case OmegaT does not display some glyphs
+        properly (even if the fonts containing the relevant glyphs are
+        installed on your machine). Note: on Windows it seems that this manual
+        font fallback mechanism can interfere with standard font fallback,
+        causing undesirable font substitution. For that reason, it is OFF by
+        default.</para>
       </listitem>
     </varlistentry>
 

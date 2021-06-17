@@ -2,7 +2,7 @@
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
 "../../../docbook-xml-4.5/docbookx.dtd">
 <chapter id="chapter.installing.and.running">
-  <title>Installing and running <application>OmegaT</application></title>
+  <title>Installing and running OmegaT</title>
 
   <section id="Windows.users">
     <title>Windows Users</title>
