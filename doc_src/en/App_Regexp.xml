@@ -391,19 +391,19 @@
 
       <tbody>
         <row>
-          <entry>X<guibutton>?</guibutton></entry>
+          <entry>X<keycap>?</keycap></entry>
 
           <entry>X, once or not at all</entry>
         </row>
 
         <row>
-          <entry>X<guibutton>*</guibutton></entry>
+          <entry>X<keycap>*</keycap></entry>
 
           <entry>X, zero or more times</entry>
         </row>
 
         <row>
-          <entry>X<guibutton>+</guibutton></entry>
+          <entry>X<keycap>+</keycap></entry>
 
           <entry>X, one or more times</entry>
         </row>
@@ -413,8 +413,7 @@
 
   <note>
     <para>greedy quantifiers will match as much as they can. For example,
-    <guibutton>a+</guibutton> will match the aaa in
-    <guibutton>aaabbb</guibutton></para>
+    <keycap>a+</keycap> will match the aaa in <keycap>aaabbb</keycap></para>
   </note>
 
   <table>
@@ -455,8 +454,8 @@
 
   <note>
     <para>non-greedy quantifiers will match as little as they can. For
-    example, <guibutton>a+?</guibutton> will match the first
-    <emphasis>a</emphasis> in <guibutton>aaabbb</guibutton></para>
+    example, <keycap>a+?</keycap> will match the first <keycap>a</keycap> in
+    <keycap>aaabbb</keycap></para>
   </note>
 
   <table>

@@ -27,10 +27,10 @@
     account.</para>
 
     <para>The shortcut definition syntax is the following: <code>&lt;menu item
-    code&gt;=&lt;shortcut&gt;</code>, where <guimenu>&lt;menu item
-    code&gt;</guimenu> is a code taken from the tables below and
-    <guimenu>&lt;shortcut&gt;</guimenu> is a combination of pressed keys
-    specified by the user<footnote>
+    code&gt;=&lt;shortcut&gt;</code>, where <guimenuitem>&lt;menu item
+    code&gt;</guimenuitem> is a code taken from the tables below and
+    <guimenuitem>&lt;shortcut&gt;</guimenuitem> is a combination of pressed
+    keys specified by the user<footnote>
         <para>The full syntax for keystrokes (shortcuts) is defined in the
         following Java 1.6 documentation from Oracle (bottom of page): <ulink
         url="http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html">Java
@@ -42,18 +42,20 @@
     <code>&lt;event&gt;</code> followed by 1 <code>&lt;key&gt;</code>,
     where:<itemizedlist>
         <listitem>
-          <para><code>&lt;modifier&gt;</code> can be:
-          <guimenu>shift</guimenu>, <guimenu>control</guimenu>,
-          <guimenu>ctrl</guimenu>, <guimenu>meta</guimenu><footnote>
+          <para><code>&lt;modifier&gt;</code> can be: <keycap>shift</keycap>,
+          <keycap>control</keycap>, <keycap>ctrl</keycap>,
+          <keycap>meta</keycap><footnote>
               <para>On the Mac, the modifier <emphasis>meta</emphasis> must be
-              used to specify the <guimenu>command</guimenu> key.</para>
-            </footnote>, <guimenu>alt</guimenu>,
-          <guimenu>altGraph</guimenu></para>
+              used to specify the <keycap>command</keycap> key.</para>
+            </footnote>, <keycap>alt</keycap>,
+          <keycap>altGraph</keycap></para>
         </listitem>
 
         <listitem>
-          <para><code>&lt;event&gt;</code> can be: <guimenu>typed</guimenu>,
-          <guimenu>pressed</guimenu>, <guimenu>released</guimenu></para>
+          <para><code>&lt;event&gt;</code> can be:
+          <guimenuitem>typed</guimenuitem>,
+          <guimenuitem>pressed</guimenuitem>,
+          <guimenuitem>released</guimenuitem></para>
         </listitem>
 
         <listitem>

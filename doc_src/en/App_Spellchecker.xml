@@ -38,9 +38,8 @@
         <para>Place the dictionary files you wish to use in this folder. There
         are essentially two ways in which you can do this. You can either copy
         files manually, i.e. from elsewhere on your system, using your file
-        manager; or you can use OmegaT's <emphasis role="bold"><?xxe-remark FABRI
-2021-06-15T15:12:43Z
-??>"Install new dictionary"</emphasis> function to provide a list of available
+        manager; or you can use OmegaT's <emphasis role="bold">"Install new
+        dictionary"</emphasis> function to provide a list of available
         dictionaries to select from. Note that the "Install" function requires
         an Internet connection. The selected languages will then be installed
         and will eventually appear in your spell checker setup window (this
@@ -52,9 +51,7 @@
     dictionary files on your system, for instance as part of your Apache
     OpenOffice, LibreOffice, Firefox or Thunderbird installation. It is
     simpler, however, to look for dictionaries online, using the <emphasis
-    role="bold"><?xxe-remark FABRI
-2021-06-15T15:12:19Z
-??>URL of online dictionaries</emphasis> field:</para>
+    role="bold">URL of online dictionaries</emphasis> field:</para>
 
     <figure id="spellchecker.setup">
       <title>Spellchecker setup</title>

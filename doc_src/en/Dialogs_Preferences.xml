@@ -342,7 +342,7 @@
 
       <itemizedlist>
         <listitem>
-          <para><guimenu>Skip PO header</guimenu></para>
+          <para><guilabel>Skip PO header</guilabel></para>
 
           <para>The PO header will be skipped and left unchanged if this
           option is checked.</para>
@@ -351,12 +351,12 @@
 
       <itemizedlist>
         <listitem>
-          <para><guimenu>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;'
-          in header</guimenu></para>
+          <para><guilabel>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;'
+          in header</guilabel></para>
 
-          <para><guimenu>This option allows OmegaT to override the
+          <para><emphasis>This option allows OmegaT to override the
           specification in the PO file header and use the default for the
-          selected target language.</guimenu></para>
+          selected target language.</emphasis></para>
         </listitem>
       </itemizedlist>
 
@@ -364,26 +364,26 @@
 
       <itemizedlist>
         <listitem>
-          <para><guimenu>Translate the following attributes</guimenu>: the
-          selected attributes will appear as segments in the Editor
+          <para><guimenuitem>Translate the following attributes</guimenuitem>:
+          the selected attributes will appear as segments in the Editor
           window.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><guimenu>Start a new paragraph on</guimenu>: the &lt;br&gt;
-          HTML tag will constitute a paragraph break for segmentation
-          purposes.</para>
+          <para><guimenuitem>Start a new paragraph on</guimenuitem>: the
+          &lt;br&gt; HTML tag will constitute a paragraph break for
+          segmentation purposes.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><guimenu>Skip text matching regular expression</guimenu>: any
-          text matching the regular expression is skipped. It is shown in red
-          in the tag validator. Text in source segments that matches is shown
-          in italics.</para>
+          <para><guimenuitem>Skip text matching regular
+          expression</guimenuitem>: any text matching the regular expression
+          is skipped. It is shown in red in the tag validator. Text in source
+          segments that matches is shown in italics.</para>
         </listitem>
       </itemizedlist>
 
@@ -537,8 +537,8 @@
         </listitem>
 
         <listitem>
-          <para><guimenu>Remove HTML comments in translated
-          document</guimenu>: commented parts (between &lt;!-- and --&gt;)
+          <para><guimenuitem>Remove HTML comments in translated
+          document</guimenuitem>: commented parts (between &lt;!-- and --&gt;)
           will not be copied into the translated document.</para>
         </listitem>
       </itemizedlist>
@@ -734,10 +734,11 @@
         <para>Additional variants are available for variables ${nameOnly} and
         ${Extension}. In case the file name has ambivalent name, one can apply
         variables of the form <literal>${name
-        only</literal><guimenu>-extension number</guimenu>} and
-        <literal>${extension</literal>-<guimenu>extension number} </guimenu>.
-        If for example the original file is named Document.xx.docx, the
-        following variables will give the following results:</para>
+        only</literal><filename>-extension number</filename>} and
+        <literal>${extension</literal>-<filename>extension number}
+        </filename>. If for example the original file is named
+        Document.xx.docx, the following variables will give the following
+        results:</para>
 
         <itemizedlist>
           <listitem>
@@ -856,8 +857,8 @@
 
           <listitem>
             <para>Separates the source text into segments. For example,
-            "<keycap>Did it make sense? I was not sure</keycap>." should be
-            split into two segments. For this to happen, there should be a
+            "<emphasis>Did it make sense? I was not sure</emphasis>." should
+            be split into two segments. For this to happen, there should be a
             break rule for "?", when followed by spaces and a capitalized
             word. To define a rule as a break rule, tick the Break/Exception
             check box.</para>
@@ -871,7 +872,7 @@
 
           <listitem>
             <para>specify what parts of text should NOT be separated. In spite
-            of the period, <keycap>"Mrs. Dalloway "</keycap> should not be
+            of the period, <emphasis>"Mrs. Dalloway "</emphasis> should not be
             split in two segments, so an exception rule should be established
             for Mrs (and for Mr, for Dr, for prof etc), followed by a period.
             To define a rule as an exception rule, leave the Break/Exception
@@ -1410,8 +1411,8 @@
                   <entry><literal>${diff}</literal></entry>
 
                   <entry>String showing the differences between the source and
-                  the match.<guimenu> Hint:</guimenu> use this if the text you
-                  are translating has been updated.</entry>
+                  the match.<emphasis> Hint:</emphasis> use this if the text
+                  you are translating has been updated.</entry>
                 </row>
 
                 <row>
