@@ -32,7 +32,7 @@
   source text.</para>
 
   <para>By default, the ./tm folder is below the project's root folder (e.g.
-  ...<emphasis>/MyProject/tm</emphasis>), but you can choose a different
+  ...<filename>/MyProject/tm</filename>), but you can choose a different
   folder in the project properties dialog if you wish. This is useful if you
   frequently use translation memories produced in the past, for example
   because they are on the same subject or for the same customer. In this case,

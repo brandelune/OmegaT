@@ -43,7 +43,7 @@
       <filename>OmegaT.l4J.ini</filename> file is modified to use the language
       selected (see next section for details). Later, after you have accepted
       the license agreement, the setup program asks you whether you wish to
-      create a folder in the <emphasis>Start</emphasis> menu, and whether you
+      create a folder in the <guimenu>Start</guimenu> menu, and whether you
       wish to create a shortcut on the desktop and in the quick launch bar -
       you can create these shortcuts later by dragging
       <filename>OmegaT.exe</filename> to the desktop or to the Start menu to
@@ -185,17 +185,16 @@
         <itemizedlist>
           <listitem>
             <para>Press <emphasis role="bold"> <keysym>Alt+F2</keysym>
-            </emphasis> to show KRunner. Type
-            <emphasis>kmenuedit+enter</emphasis> to run the command. The
-            KMenuEditor appears. In KMenuEditor select <emphasis>File &gt; New
-            Item.</emphasis></para>
+            </emphasis> to show KRunner. Type <keycap>kmenuedit+enter</keycap>
+            to run the command. The KMenuEditor appears. In KMenuEditor select
+            <guimenuitem>File &gt; New Item.</guimenuitem></para>
           </listitem>
 
           <listitem>
             <para>Then, after selecting a suitable menu, add a submenu/item
-            with <emphasis>File - New</emphasis> Submenu and <emphasis>File -
-            New Item</emphasis>. Enter OmegaT as the name of the new
-            item.</para>
+            with <guimenuitem>File - New</guimenuitem> Submenu and
+            <guimenuitem>File - New Item</guimenuitem>. Enter OmegaT as the
+            name of the new item.</para>
           </listitem>
 
           <listitem>
@@ -216,8 +215,8 @@
           </listitem>
 
           <listitem>
-            <para>Finally, save the changes with <emphasis>File -
-            Save.</emphasis></para>
+            <para>Finally, save the changes with <guimenu>File -
+            Save.</guimenu></para>
           </listitem>
         </itemizedlist>
       </section>
@@ -229,8 +228,8 @@
 
         <itemizedlist>
           <listitem>
-            <para>Right-click on the panel - <emphasis>Add New
-            Launcher</emphasis>.</para>
+            <para>Right-click on the panel - <guimenuitem>Add New
+            Launcher</guimenuitem>.</para>
           </listitem>
 
           <listitem>
@@ -305,7 +304,7 @@
       location in the Dock.</para>
 
       <para>You can modify OmegaT's behaviour by editing the
-      <emphasis>Properties</emphasis> as well as the
+      <guimenu>Properties</guimenu> as well as the
       <filename>Configuration.properties</filename> file in the
       package.</para>
 
@@ -325,14 +324,14 @@
       Japanese.</para>
 
       <para>To change the amount of memory available, edit
-      <emphasis>OmegaT.app/Contents/Info.plist</emphasis> file and un-comment
+      <filename>OmegaT.app/Contents/Info.plist</filename> file and un-comment
       the line <literal>&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt;
       --&gt;</literal> by removing the <literal>&lt;!--</literal> and
       <literal>--&gt;</literal>. This will launch OmegaT with 6 GB of memory;
       change the <literal>6g</literal> to the desired amount.</para>
 
       <para>To launch multiple instances of <filename>OmegaT.app</filename>,
-      double-click the file <emphasis>OmegaT</emphasis> located in
+      double-click the file <filename>OmegaT</filename> located in
       <filename>OmegaT.app/Contents/MacOS/</filename>.</para>
 
       <para>Use the <filename>OmegaT.jar</filename> file located in
