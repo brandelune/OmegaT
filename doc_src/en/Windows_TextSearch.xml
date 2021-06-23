@@ -9,20 +9,20 @@
 
       <keycap>F</keycap>
     </keycombo> and enter the word or phrase you wish to search for in the
-  <emphasis>Search for</emphasis> box.</para>
+  <guimenuitem>Search for</guimenuitem> box.</para>
 
   <para>Alternatively, you can select a word or phrase in the Editor pane,
   Fuzzy matches pane or Glossary pane and hit <keycombo>
       <keycap>Ctrl</keycap>
 
       <keycap>F</keycap>
-    </keycombo>. The word or phrase is entered in the <emphasis>Search
-  for</emphasis> box automatically. You can have several Search windows open
-  at the same time, but close them when they are no longer needed so that they
-  do not clutter your desktop.</para>
+    </keycombo>. The word or phrase is entered in the <guimenuitem>Search
+  for</guimenuitem> box automatically. You can have several Search windows
+  open at the same time, but close them when they are no longer needed so that
+  they do not clutter your desktop.</para>
 
-  <para>Click the dropdown arrow of the <emphasis>Search for</emphasis> box to
-  access the last 10 searches.</para>
+  <para>Click the dropdown arrow of the <guimenuitem>Search for</guimenuitem>
+  box to access the last 10 searches.</para>
 
   <para>The Search window has its own menus:</para>
 
@@ -142,7 +142,7 @@
           <emphasis><literal>open file</literal></emphasis> will thus find all
           occurrences of the string <emphasis><literal>open
           file</literal>,</emphasis> as well as <emphasis><literal>file
-          opened</literal>, <literal>open input file</literal>, <literal>file
+          opened</literal><literal>open input file</literal>, <literal>file
           may not be safe to open</literal></emphasis>, etc.</para>
         </listitem>
       </varlistentry>
@@ -228,12 +228,12 @@
 
       <listitem>
         <para><emphasis role="bold">Search in Project</emphasis>: check
-        <emphasis>Memory</emphasis> to include the project memory
+        <guimenuitem>Memory</guimenuitem> to include the project memory
         (<filename>project_save.tmx</filename> file) in the search. Check
-        <emphasis>TMs</emphasis> to include the translation memories located
-        in the ./tm folder in the search. Check
-        <emphasis>Glossaries</emphasis> to include the glossaries located in
-        the ./glossary folder in the search.</para>
+        <guimenuitem>TMs</guimenuitem> to include the translation memories
+        located in the ./tm folder in the search. Check
+        <guimenuitem>Glossaries</guimenuitem> to include the glossaries
+        located in the ./glossary folder in the search.</para>
       </listitem>
 
       <listitem>
@@ -249,7 +249,7 @@
     <para>If you click on the button <guibutton>Advanced options</guibutton>
     additional criteria (author or changer of the translation, date
     translated, excluding orphan segments, etc) can be selected. When
-    <emphasis>Full/Half width char insensitive</emphasis> option is checked,
+    <guibutton>Full/Half width char insensitive</guibutton> option is checked,
     searches for fullwidth forms (CJK characters) will match halfwidth forms
     and vice versa.</para>
   </section>

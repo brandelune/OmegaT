@@ -12,8 +12,8 @@
     </menuchoice>.</para>
 
   <para><remark>Note:</remark> it is possible to inhibit the window displaying
-  at opening, by setting <emphasis>project_files_show_on_load</emphasis> to
-  <emphasis>false</emphasis> in <filename>omegat.prefs</filename> file
+  at opening, by setting <guilabel>project_files_show_on_load</guilabel> to
+  <guibutton>false</guibutton> in <filename>omegat.prefs</filename> file
   (accessible by <menuchoice>
       <guimenuitem>Options</guimenuitem>
 
@@ -43,7 +43,7 @@
 
       <para>Note: filenames (in first column) can be sorted alphabetically by
       clicking in the header. It also possible to change the position of a
-      filename, by clicking on it and pressing <emphasis>Move ...</emphasis>
+      filename, by clicking on it and pressing <guibutton>Move ...</guibutton>
       buttons.</para>
 
       <para>Right-clicking on a filename opens a popup that allows to open the

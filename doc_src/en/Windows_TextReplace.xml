@@ -9,13 +9,13 @@
 
       <keycap>K</keycap>
     </keycombo> and enter the word or expression you wish to replace in the
-  <emphasis>Search for</emphasis> box.</para>
+  <guimenuitem>Search for</guimenuitem> box.</para>
 
-  <para>Then click on <emphasis>Search</emphasis> button to display all the
+  <para>Then click on <guibutton>Search</guibutton> button to display all the
   corresponding occurrences.</para>
 
   <para>Enter the new word or phrase (regular expressions are not supported)
-  in the <emphasis>Replace with</emphasis> box, then click one of the
+  in the <guimenuitem>Replace with</guimenuitem> box, then click one of the
   following options: <itemizedlist>
       <listitem>
         <para><emphasis role="bold">Replace All:</emphasis> operates
@@ -27,8 +27,9 @@
         <para><emphasis role="bold">Replace:</emphasis> operates a "one by
         one" replacement, by the mean of buttons in the <emphasis
         role="bold">header of the Editor pane</emphasis>. Click
-        <emphasis>Replace Next</emphasis> or <emphasis>Skip</emphasis>, then
-        end the replacement session with <emphasis>Finish</emphasis>.</para>
+        <guibutton>Replace Next</guibutton> or <guibutton>Skip</guibutton>,
+        then end the replacement session with
+        <guibutton>Finish</guibutton>.</para>
       </listitem>
     </itemizedlist><itemizedlist>
       <listitem>

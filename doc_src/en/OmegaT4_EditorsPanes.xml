@@ -159,7 +159,7 @@
     able to store translations that are identical to the source. This is
     useful for documents that contain trade marks, names or other proper
     nouns, or parts in a third language that do not require translation. See
-    <emphasis>Translation editing</emphasis> for more details.</para>
+    <guimenuitem>Translation editing</guimenuitem> for more details.</para>
 
     <para>If you right click on the Editor pane, a pop-up menu opens,
     offering<emphasis role="bold"> Cut, Copy, Paste</emphasis> (i.e. same
@@ -259,9 +259,9 @@
     <para>The Glossary pane allows you to access your own collection of
     expressions and specialist terminology which you have built up in your
     glossary files. It shows translation of terms found in the current
-    segment. The source segment in the example below was “<emphasis>Context
-    menu command</emphasis>”, as in the Fuzzy Matches example above, and the
-    terms shown were found in the glossaries, available (Microsoft's Term
+    segment. The source segment in the example below was “<guimenuitem>Context
+    menu command</guimenuitem>”, as in the Fuzzy Matches example above, and
+    the terms shown were found in the glossaries, available (Microsoft's Term
     collection and Slovenian Linux User group Glossary).</para>
 
     <para>If you have TransTips option activated (<guimenuitem>Options →
