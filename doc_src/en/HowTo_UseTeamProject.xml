@@ -21,7 +21,7 @@
 
   <para>The interval of 3 minutes can be changed in <link
   linkend="dialogs.preferences.savingandoutput"><menuchoice>
-      <guimenuitem>Options</guimenuitem>
+      <guimenu>Options</guimenu>
 
       <guimenuitem>Preferences</guimenuitem>
 
