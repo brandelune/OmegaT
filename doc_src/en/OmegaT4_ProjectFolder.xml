@@ -84,8 +84,8 @@
 
       <para>If it is clear from the very start, that translations in a given
       TM (or TMs) are all correct, one can put them into the <emphasis
-      role="bold"> tm/auto </emphasis> folder and avoid confirming a lot
-      of<emphasis> [fuzzy] </emphasis> cases.</para>
+      role="bold"> tm/auto </emphasis> folder and avoid confirming a lot of
+      <emphasis> [fuzzy] </emphasis> cases.</para>
 
       <para><orderedlist>
           <listitem>
